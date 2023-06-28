@@ -6,7 +6,7 @@ int b = 2;
 
 int max = a;
 
-if (b > a)
+if (b > max)
 {
     max = b;
 }
